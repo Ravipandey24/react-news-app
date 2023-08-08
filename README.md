@@ -38,6 +38,15 @@ Install dependencies
   npm install
 ```
 
+Generate an API key on <a href='https://newsapi.org/docs'>News API</a> website.
+
+Create a .env file
+
+```bash
+VITE_BASE_URL=https://newsapi.org/v2
+VITE_API_KEY=YOUR_NEWS_API
+```
+
 Start the server
 
 ```bash
