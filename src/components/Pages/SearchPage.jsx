@@ -49,7 +49,7 @@ function SearchPage() {
         <>
           <LoadingCards count={6} ></LoadingCards>
         </>
-      ) : articles.length ? (
+      ) : articles.length !== 0 ? (
         <>
           <div className="px-4 py-2 flex justify-end">
             <CustomDropdown

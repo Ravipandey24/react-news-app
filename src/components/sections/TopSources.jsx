@@ -73,7 +73,7 @@ function TopSources() {
       ) : (
         Object.entries(sourceArticles).map(
           ([source, articles], id) =>
-            articles.length && (
+            articles.length !== 0 && (
               <div
                 key={"wrapper" + id}
                 className="rounded-md shadow-lg p-4 mx-3 mt-3 bg-gray-200"
