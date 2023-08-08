@@ -8,6 +8,12 @@
 
 > A news app built using News API (https://newsapi.org/docs). 
 
+## Screenshot
+![Landing Page](https://github.com/Ravipandey24/react-news-app/assets/79630119/7511dc1c-72e8-46cc-a1a8-efb078647536)
+
+![Search Page](https://github.com/Ravipandey24/react-news-app/assets/79630119/9398e2d7-6ea3-432c-a177-0b12600faafc)
+
+
 ## Run Locally
 
 Clone the project
